@@ -1,1 +1,1 @@
-# typeScript-react
+# typescript-react
